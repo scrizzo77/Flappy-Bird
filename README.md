@@ -1,1 +1,4 @@
-Hello my name is Aditya and this project is about flappy bird
+Hello this project is about creating a Flappy Bird game with Python.
+
+Libraries used: os, random, pgzrun, pgzhelper.py (centred around PygameZero).
+
